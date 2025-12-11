@@ -1,0 +1,8 @@
+__pycache__/
+*.exe
+dist/
+build/
+*.spec
+etl_secure_config.json
+venv/
+.idea/
